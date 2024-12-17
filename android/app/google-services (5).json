@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112888380771",
+    "project_id": "deepti-9dc66",
+    "storage_bucket": "deepti-9dc66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112888380771:android:d5192b97641682bf26a756",
+        "android_client_info": {
+          "package_name": "com.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsYn3RE2nYsjegxmQL-6jD9cTLVEnsO68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
